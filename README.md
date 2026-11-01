@@ -1,6 +1,6 @@
 # Banking-Application
 
-Welcome to the Fintech Finance Banking Application repository! This project is a comprehensive banking application developed to handle various banking operations such as account management, transactions, payments, deposit, withdrawn and more.
+Welcome to the Banking Application repository! This project is a comprehensive banking application developed to handle various banking operations such as account management, transactions, payments, deposit, withdrawn and more.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Welcome to the Fintech Finance Banking Application repository! This project is a
 
 ## Project Overview
 
-The Fintech Finance Banking Application is designed to provide users with a seamless banking experience. It allows users to sign-in/login account with email verification, add new account for existing user, manage their finances, transfer money, check transaction and payment history, and perform other banking operations securely.
+The Banking Application is designed to provide users with a seamless banking experience. It allows users to sign-in/login account with email verification, add new account for existing user, manage their finances, transfer money, check transaction and payment history, and perform other banking operations securely.
 
 ## Features
 - User Registration and Authentication: Secure user registration and login functionality.
@@ -43,7 +43,7 @@ Steps
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/deep1020/Fintech-Finance-Banking-Application.git
+   git clone https://github.com/NYARANGA-ROB/Banking-solution.git
    ```
 2. Set up the database:
    - Create a MySQL database named Fintech_Finance_Database.
