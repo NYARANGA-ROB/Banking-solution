@@ -23,7 +23,6 @@ public class AuthController {
 
     @Autowired
     private UserRepository userRepository;
-
     @Autowired
     private MailMessenger mailMessenger;
 
