@@ -49,7 +49,6 @@ public class AuthController {
                         @RequestParam("_token")String token,
                         Model model,
                         HttpSession session) throws MessagingException {
-
         // TODO: VALIDATE INPUT FIELDS / FORM DATA:
         if(email.isEmpty() || email == null || password.isEmpty() || password == null){
             model.addAttribute("error", "Username or Password Cannot be Empty");
