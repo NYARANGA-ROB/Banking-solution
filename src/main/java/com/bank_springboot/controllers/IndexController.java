@@ -53,7 +53,6 @@ public class IndexController {
         // End Of Check If Token Is Valid.
 //        System.out.println("Code: "+code);
         // Update and Verify Account:
-
     }
     // End Of User Account Verification.
 
